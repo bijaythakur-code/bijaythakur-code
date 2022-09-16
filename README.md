@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQG5dgozlmDfjA/profile-displaybackgroundimage-shrink_200_800/0/1662560519002?e=1668643200&v=beta&t=2enlCfrktRH7Co7LnNTbJDPHnUb_bfWSWhmT-86EIGY)](https://bijaythakur.com)
+[![MasterHead](https://pbs.twimg.com/profile_banners/2423295768/1662560867/1500x500)](https://bijaythakur.com)
 
 <h1 align="center">Hi 👋, I'm Bijay Kumar Thakur</h1>
 <h3 align="center">A passionate full stack WordPress Developer from Nepal</h3>
