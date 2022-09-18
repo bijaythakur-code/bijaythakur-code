@@ -1,7 +1,7 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/2423295768/1662560867/1500x500)](https://bijaythakur.com)
 
 <h1 align="center">Hi 👋, I'm Bijay Thakur</h1>
-<h3 align="center">A Passionate Full-Stack WordPress Developer from Nepal</h3>
+<h3 align="center">A passionate Full-Stack WordPress Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijaythakur-code&label=Profile%20views&color=0e75b6&style=flat" alt="bijaythakur-code" /> </p>
