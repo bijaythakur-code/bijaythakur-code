@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/2423295768/1662560867/1500x500)](https://bijaythakur.com)
+[![MasterHead](https://pbs.twimg.com/profile_banners/2423295768/1663815957/1500x500)](https://bijaythakur.com)
 
 <h1 align="center">Hi 👋, I'm Bijay Thakur</h1>
 <h3 align="center">A passionate Full-Stack WordPress Developer from Nepal</h3>
