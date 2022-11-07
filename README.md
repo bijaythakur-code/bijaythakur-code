@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bijay Thakur</h1>
-<h3 align="center">A passionate software developer having a special interest in Frontend development and WordPress development and experience in building android apps using java and xml.</h3>
+<h3 align="center">A passionate software developer who loves to learn and explore new technology and solves problems using them.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijaythakur-code&label=Profile%20views&color=0e75b6&style=flat" alt="bijaythakur-code" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bijay__thakur" target="blank"><img src="https://img.shields.io/twitter/follow/bijay__thakur?logo=twitter&style=for-the-badge" alt="bijay__thakur" /></a> </p>
 
-- 💬 Ask me about **WordPress Development, React**
-
-- 📫 How to reach me **mail@bijaythakur.com**
+- 📫 How to reach me **bijaythakur262@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
