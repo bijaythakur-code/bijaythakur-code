@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bijay Thakur</h1>
+<h1 align="center">Hi 👋, I'm Bijay Kumar Thakur</h1>
 <h3 align="center">A passionate software developer who loves to learn and explore new technology and solves problems using them.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/bijay__thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bijay__thakur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bijaythakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bijaythakur" height="30" width="40" /></a>
-<a href="https://instagram.com/bijaythakur._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijaythakur._" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bijaythakuryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bijay thakur" height="30" width="40" /></a>
 </p>
 
