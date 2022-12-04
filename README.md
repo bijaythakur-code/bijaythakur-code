@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bijay Kumar Thakur</h1>
-<h3 align="center">A passionate software developer who loves to learn and explore new technology and solves problems using them.</h3>
+<h3 align="center">A passionate software developer who loves to learn and explore new technology and solves problems using it.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijaythakur-code&label=Profile%20views&color=0e75b6&style=flat" alt="bijaythakur-code" /> </p>
