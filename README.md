@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijaythakur-code&label=Profile%20views&color=0e75b6&style=flat" alt="bijaythakur-code" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bijay__thakur" target="blank"><img src="https://img.shields.io/twitter/follow/bijay__thakur?logo=twitter&style=for-the-badge" alt="bijay__thakur" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/bijay__thakur" target="blank"><img src="https://img.shields.io/twitter/follow/bijay__thakur?logo=twitter&style=for-the-badge" alt="bijay__thakur" /></a> </p> -->
 
 - 📫 How to reach me **bijaythakur262@gmail.com**
 
