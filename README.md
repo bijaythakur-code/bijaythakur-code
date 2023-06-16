@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijaythakur-code&show_icons=true&locale=en&layout=compact" alt="bijaythakur-code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijaythakur-code&show_icons=true&locale=en" alt="bijaythakur-code" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijaythakur-code&show_icons=true&locale=en" alt="bijaythakur-code" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijaythakur-code&" alt="bijaythakur-code" /></p>
